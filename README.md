@@ -2,7 +2,7 @@
 Binaries to test interoperability\
 Compiled on Linux UDS (Ubuntu)\
 If you need another compilation please ask in issues\
-If you have any problems with run, or any error like segfault please notice us in issues too.\
+If you have any problems with run, or any error like segfault please notice us in issues too.
 
 All arguments of the command below can be changed
 
